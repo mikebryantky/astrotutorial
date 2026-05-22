@@ -1,5 +1,13 @@
 # Astro Starter Kit: Minimal
 
+ * https://docs.astro.build/en/tutorial/5-astro-api/2/
+ * https://cloudcannon.com/tutorials/astro-beginners-tutorial-series/
+ * https://www.youtube.com/watch?v=CF3drb6H3Yw
+
+
+
+
+
 ```sh
 npm create astro@latest -- --template minimal
 ```
